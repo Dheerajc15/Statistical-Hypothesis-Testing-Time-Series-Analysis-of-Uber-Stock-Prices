@@ -1,4 +1,4 @@
-# Uber Stock Price Analysis & Financial Time-Series Modeling
+# Statistical Hypothesis Testing & Time-Series Analysis of Uber Stock Prices
 
 ## 🔍 Project Overview
 
